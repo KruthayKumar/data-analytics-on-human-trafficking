@@ -1,0 +1,40 @@
+Si. No (Col. 1),Category ,State/UT (Col. 2),Cases Reported - 2018 - (Col. 3),Note of Cases Reported - 2018 - (Col. 3),Cases Reported - 2019 - (Col. 4),Note of Cases Reported - 2019 - (Col. 4),Cases Reported - 2020 - (Col. 5),Mid-Year Projected Population (In Lakhs) - (Col. 6),Rate of Cognizable Crimes (IPC) - (Col. 7),Chargesheeting Rate - (Col. 8)
+1,State,Andhra Pradesh,240,NA,245,NA,171,526,0.3,99.2
+2,State,Arunachal Pradesh,3,NA,0,NA,2,15.2,0.1,100
+3,State,Assam,308,NA,201,NA,124,347.9,0.4,69
+4,State,Bihar,127,NA,106,NA,75,1219,0.1,93.4
+5,State,Chhattisgarh,51,NA,50,NA,38,292.4,0.1,77.4
+6,State,Goa,55,NA,38,NA,17,15.5,1.1,95.2
+7,State,Gujarat,13,NA,11,NA,13,691.7,0,90.9
+8,State,Haryana,34,NA,15,NA,14,292.1,0,66.7
+9,State,Himachal Pradesh,6,NA,11,NA,4,73.6,0.1,50
+10,State,Jharkhand,140,NA,177,NA,140,381.2,0.4,59.8
+11,State,Karnataka,27,NA,32,NA,13,665,0,95.2
+12,State,Kerala,105,NA,180,NA,166,353.7,0.5,93.3
+13,State,Madhya Pradesh,63,NA,73,NA,80,837.6,0.1,97.3
+14,State,Maharashtra,311,NA,282,NA,184,1236.8,0.1,99.4
+15,State,Manipur,3,NA,9,NA,6,31.4,0.2,NA
+16,State,Meghalaya,24,NA,22,NA,1,32.6,0,NA
+17,State,Mizoram,2,NA,7,NA,0,12.1,0,NA
+18,State,Nagaland,0,NA,3,NA,0,21.8,0,100
+19,State,Odisha,75,NA,147,NA,103,454.7,0.2,85.3
+20,State,Punjab,17,NA,19,NA,17,301.8,0.1,80
+21,State,Rajasthan,86,NA,141,NA,128,786.1,0.2,98.3
+22,State,Sikkim,1,NA,0,NA,1,6.7,0.1,NA
+23,State,Tamil Nadu,8,NA,16,NA,11,761.7,0,100
+24,State,Telangana,242,NA,137,NA,184,375.4,0.5,98.4
+25,State,Tripura,2,NA,1,NA,1,40.4,0,100
+26,State,Uttar Pradesh,35,NA,48,NA,90,2289.3,0,100
+27,State,Uttarakhand,29,NA,20,NA,9,113.1,0.1,86.7
+28,State,West Bengal,172,NA,120,NA,59,977.2,0.1,57.4
+Total State(s),Total State(s),Total State(s),2179,NA,2111,NA,1651,13152,0.1,85.8
+29,Union Territories,A & N Islands,0,NA,0,NA,0,4,0,100
+30,Union Territories,Chandigarh,0,NA,2,NA,2,12,0.2,100
+31,Union Territories,D & N Haveli and Daman & Diu,0, +,0, +,2,10.4,0.2,100
+32,Union Territories,Delhi,98,NA,93,NA,53,203.2,0.3,67.5
+33,Union Territories,Jammu & Kashmir,1,*,0,*,2,133.4,0,100
+34,Union Territories,Ladakh,NA,NA,NA,NA,0,3,NA,NA
+35,Union Territories,Lakshadweep,0,NA,0,NA,0,0.7,0,NA
+36,Union Territories,Puducherry,0,NA,2,NA,4,15.5,0.3,NA
+Total UT(s),Total UT(s),Total UT(s),99,NA,97,NA,63,382.1,0.2,66.7
+Total All India,Total All India,Total All India,2278,NA,2208,NA,1714,13533.9,0.1,85.2
